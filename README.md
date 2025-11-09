@@ -27,7 +27,7 @@ This repo tracks my journey to strengthen problem-solving skills in **Python**, 
 | Graphs | BFS/DFS, Dijkstra’s, Union-Find | ⏳ Upcoming |
 | Dynamic Programming | Memoization, tabulation, common DP patterns | ⏳ Upcoming |
 | Miscellaneous | Bit manipulation, math problems, greedy algorithms | ⏳ Upcoming |
-| Any other commonly asked basic Python interview questions I may encounter |
+| Interview Coding questions | Any other commonly asked basic Python interview questions I may encounter | ⏳ Upcoming |
 
 ---
 

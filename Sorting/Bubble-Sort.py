@@ -1,4 +1,6 @@
 # Bubble Sort
+# Compares adjacent elements, swaps if element to right is bigger than element to left
+# Complexity = O(n^2) - Since 2 for loops are present
 
 arr = [5,2,8,1,9,4,7,6]
 
@@ -10,5 +12,6 @@ def BubbleSort(a):
                 a[j], a[j+1] = a[j+1], a[j]
 
     return a
+
 
 print(BubbleSort(arr))

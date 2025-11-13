@@ -13,7 +13,7 @@ This repo tracks my journey to strengthen problem-solving skills in **Python**, 
 - Prepare for technical interviews and sharpen logical thinking.  
 - Document learnings clearly to serve as a future reference for myself and others.
 
----
+-----
 
 ## 📚 Topics Covered (Work in Progress)
 

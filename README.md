@@ -18,9 +18,9 @@ This repo tracks my journey to strengthen problem-solving skills in **Python**, 
 
 | Topic | Description | Status |
 |-------|--------------|--------|
-| Arrays & Strings | Basic problems, sliding window, two pointers, prefix sums | ✅ In Progress |
+| Arrays & Strings | Basic problems, sliding window, two pointers, prefix sums | ⏳ Upcoming |
 | Linked Lists | Singly, doubly, cycle detection, reversal | ⏳ Upcoming |
-| Stacks & Queues | Expression evaluation, next greater element, monotonic stack | ⏳ Upcoming |
+| Stacks & Queues | Expression evaluation, next greater element, monotonic stack | ✅ In Progress |
 | Recursion & Backtracking | Subsets, permutations, combination sum, N-Queens | ⏳ Upcoming |
 | Sorting & Searching | Bubble, Merge, Quick, Binary Search variations | ✅ In Progress |
 | Trees | DFS, BFS, binary tree traversal, BST operations | ⏳ Upcoming |
